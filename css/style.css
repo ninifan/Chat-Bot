@@ -1,0 +1,22 @@
+.panda{
+    position: fixed;
+    top:280;
+}
+.pom{
+    height:220px;
+    top:280px;
+    position: fixed;
+
+}
+.deer{
+    left:500px;
+    position: fixed;
+    top:260px;
+}
+.girl{
+    top:100px;
+}
+
+.right {
+    text-align: right;
+}
